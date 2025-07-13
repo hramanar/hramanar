@@ -28,4 +28,4 @@ They will be made public soon. Highlights include:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hramanar&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hramanar&show_icons=true&theme=radical)
