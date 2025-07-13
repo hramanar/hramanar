@@ -10,7 +10,7 @@ I enjoy building useful tools and learning through real-world projects, especial
 - Programming languages: C, C++, TypeScript, JavaScript  
 - Backend: Node.js, Fastify, SQLite  
 - Frontend: Tailwind CSS, HTML, CSS  
-- Tools: Git, Docker, Linux, CI/CD workflows
+- Tools: Git, Linux, CI/CD workflows
 
 ## 📂 Projects in Progress
 
@@ -29,6 +29,3 @@ They will be made public soon. Highlights include:
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hramanar&show_icons=true&theme=radical)
-
-![Visitor Count](https://profile-counter.glitch.me/hramanar/count.svg)
-
